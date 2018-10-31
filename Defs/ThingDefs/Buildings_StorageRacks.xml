@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+<!-- Abstract -->
+  <ThingDef Name="StorageRackBase" Abstract="True" ParentName="BuildingBase">
+  	<description>Haulers carry stuff here for storage.</description>
+    <thingClass>Building_Storage</thingClass>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>PassThroughOnly</passability>
+    <fillPercent>0.4</fillPercent>
+    <castEdgeShadows>true</castEdgeShadows>
+    <designationCategory>ASAR_StorageCat</designationCategory>
+    <tradeTags>
+      <li>Furniture</li>
+    </tradeTags>
+    <stuffCategories>
+      <li>Metallic</li>
+      <li>Woody</li>
+      <li>Stony</li>
+    </stuffCategories>
+    <statBases>
+      <Flammability>1.0</Flammability>
+      <Beauty>0</Beauty>
+    </statBases>
+    <staticSunShadowHeight>0.5</staticSunShadowHeight>
+    <surfaceType>Item</surfaceType>
+    <pathCost>125</pathCost>
+    <building>
+      <preventDeteriorationOnTop>true</preventDeteriorationOnTop>
+      <ignoreStoredThingsBeauty>true</ignoreStoredThingsBeauty>
+      <defaultStorageSettings>
+        <filter>
+          <categories>
+            <li>Root</li>
+          </categories>
+          <specialFiltersToDisallow>
+            <li>AllowRotten</li>
+          </specialFiltersToDisallow>
+        </filter>
+      </defaultStorageSettings>
+    </building>
+    <comps>
+      <li>
+        <compClass>CompQuality</compClass>
+      </li>
+    </comps>
+    <inspectorTabs>
+      <li>ITab_Storage</li>
+    </inspectorTabs>
+    <canOverlapZones>false</canOverlapZones>
+  </ThingDef>
+
+<!-- Normal Racks -->
+
+  <ThingDef ParentName="StorageRackBase">
+    <defName>StorageRackSingle</defName>
+    <label>Single storage rack</label>
+    <graphicData>
+      <texPath>Things/Buildings/Furniture/StorageSingle</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(1,1)</drawSize>
+    </graphicData>
+    <costStuffCount>15</costStuffCount>
+    <costList>
+      <Steel>1</Steel>
+    </costList>
+    <statBases>
+      <MaxHitPoints>100</MaxHitPoints>
+      <WorkToBuild>350</WorkToBuild>
+    </statBases>
+    <size>(1,1)</size>
+  </ThingDef>
+
+  <ThingDef ParentName="StorageRackBase">
+    <defName>StorageRackSmall</defName>
+    <label>Small storage rack</label>
+    <graphicData>
+      <texPath>Things/Buildings/Furniture/StorageSmall</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(2,1)</drawSize>
+    </graphicData>
+    <costStuffCount>30</costStuffCount>
+    <costList>
+      <Steel>2</Steel>
+    </costList>
+    <statBases>
+      <MaxHitPoints>200</MaxHitPoints>
+      <WorkToBuild>700</WorkToBuild>
+    </statBases>
+    <size>(2,1)</size>
+  </ThingDef>
+
+  <ThingDef ParentName="StorageRackBase">
+    <defName>StorageRackMedium</defName>
+    <label>Medium storage rack</label>
+    <graphicData>
+      <texPath>Things/Buildings/Furniture/StorageMedium</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(3,1)</drawSize>
+    </graphicData>
+    <costStuffCount>45</costStuffCount>
+    <costList>
+      <Steel>3</Steel>
+    </costList>
+    <statBases>
+      <MaxHitPoints>300</MaxHitPoints>
+      <WorkToBuild>1050</WorkToBuild>
+    </statBases>
+    <size>(3,1)</size>
+  </ThingDef>
+
+  <ThingDef ParentName="StorageRackBase">
+    <defName>StorageRackLarge</defName>
+    <label>Large storage rack</label>
+    <graphicData>
+      <texPath>Things/Buildings/Furniture/StorageLarge</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(4,1)</drawSize>
+    </graphicData>
+    <costStuffCount>60</costStuffCount>
+    <costList>
+      <Steel>4</Steel>
+    </costList>
+    <statBases>
+      <MaxHitPoints>400</MaxHitPoints>
+      <WorkToBuild>1400</WorkToBuild>
+    </statBases>
+    <size>(4,1)</size>
+  </ThingDef>
+
+          <!-- Doubles -->
+
+  <ThingDef ParentName="StorageRackBase">
+    <defName>StorageRackSmallD</defName>
+    <label>Small double storage rack</label>
+    <graphicData>
+      <texPath>Things/Buildings/Furniture/StorageSmallD</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(2,2)</drawSize>
+    </graphicData>
+    <costStuffCount>60</costStuffCount>
+    <costList>
+      <Steel>4</Steel>
+    </costList>
+    <statBases>
+      <MaxHitPoints>400</MaxHitPoints>
+      <WorkToBuild>1400</WorkToBuild>
+    </statBases>
+    <size>(2,2)</size>
+  </ThingDef>
+
+  <ThingDef ParentName="StorageRackBase">
+    <defName>StorageRackMediumD</defName>
+    <label>Medium double storage rack</label>
+    <graphicData>
+      <texPath>Things/Buildings/Furniture/StorageMediumD</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(3,2)</drawSize>
+    </graphicData>
+    <costStuffCount>90</costStuffCount>
+    <costList>
+      <Steel>6</Steel>
+    </costList>
+    <statBases>
+      <MaxHitPoints>600</MaxHitPoints>
+      <WorkToBuild>2100</WorkToBuild>
+    </statBases>
+    <size>(3,2)</size>
+  </ThingDef>
+
+  <ThingDef ParentName="StorageRackBase">
+    <defName>StorageRackLargeD</defName>
+    <label>Large double storage rack</label>
+    <graphicData>
+      <texPath>Things/Buildings/Furniture/StorageLargeD</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(4,2)</drawSize>
+    </graphicData>
+    <costStuffCount>120</costStuffCount>
+    <costList>
+      <Steel>8</Steel>
+    </costList>
+    <statBases>
+      <MaxHitPoints>800</MaxHitPoints>
+      <WorkToBuild>2800</WorkToBuild>
+    </statBases>
+    <size>(4,2)</size>
+  </ThingDef>  
+
+</Defs>
