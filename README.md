@@ -1,5 +1,4 @@
-# AsSimpleAsARack
-As Simple As A Rack (Continued)
+# As Simple As A Rack (Continued)
 
 Adds Storage racks and refridgerated storage racks.
 Things in the racks will not deteriorate when placed outside.
