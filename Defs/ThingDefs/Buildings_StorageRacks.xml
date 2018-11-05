@@ -47,6 +47,7 @@
       <li>ITab_Storage</li>
     </inspectorTabs>
     <canOverlapZones>false</canOverlapZones>
+	<holdsRoof>true</holdsRoof>
   </ThingDef>
 
 <!-- Normal Racks -->
