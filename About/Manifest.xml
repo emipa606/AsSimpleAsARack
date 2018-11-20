@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest>
+  <identifier>AsSimpleAsARack</identifier>
+  <version>1.0.2.0</version>
+  <dependencies>
+    <li>[KV]RimFridge-1.0</li>
+  </dependencies>
+  <incompatibleWith />
+  <loadBefore />
+  <loadAfter>
+    <li>[KV]RimFridge-1.0</li>
+  </loadAfter>
+  <manifestUri>https://raw.githubusercontent.com/emipa606/AsSimpleAsARack/master/About/Manifest.xml</manifestUri>
+  <downloadUri>https://github.com/emipa606/AsSimpleAsARack/releases</downloadUri>
+</Manifest>
