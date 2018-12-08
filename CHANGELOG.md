@@ -1,5 +1,8 @@
 # As Simple As A Rack (Continued) Change Log
 
+## 1.0.3
+- Translation-support
+
 ## 1.0.2
 - Mod manager support
 
