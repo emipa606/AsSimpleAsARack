@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Normal Racks -->
+
+  <StorageRackSingle.label>Single storage rack</StorageRackSingle.label>
+  <StorageRackSingle.description>Haulers carry stuff here for storage. This storage has one spot.</StorageRackSingle.description>
+  <StorageRackSingle_Blueprint.label>Single storage rack (blueprint)</StorageRackSingle_Blueprint.label>
+  <StorageRackSingle_Frame.label>Single storage rack (building)</StorageRackSingle_Frame.label>
+  <StorageRackSingle_Frame.description>Haulers carry stuff here for storage. This storage has one spot.</StorageRackSingle_Frame.description>
+
+  <StorageRackSmall.label>Small storage rack</StorageRackSmall.label>
+  <StorageRackSmall.description>Haulers carry stuff here for storage. This storage has two spots.</StorageRackSmall.description>
+  <StorageRackSmall_Blueprint.label>Small storage rack (blueprint)</StorageRackSmall_Blueprint.label>
+  <StorageRackSmall_Frame.label>Small storage rack (building)</StorageRackSmall_Frame.label>
+  <StorageRackSmall_Frame.description>Haulers carry stuff here for storage. This storage has two spots.</StorageRackSmall_Frame.description>
+
+  <StorageRackMedium.label>Medium storage rack</StorageRackMedium.label>
+  <StorageRackMedium.description>Haulers carry stuff here for storage. This storage has three spots.</StorageRackMedium.description>
+  <StorageRackMedium_Blueprint.label>Medium storage rack (blueprint)</StorageRackMedium_Blueprint.label>
+  <StorageRackMedium_Frame.label>Medium storage rack (building)</StorageRackMedium_Frame.label>
+  <StorageRackMedium_Frame.description>Haulers carry stuff here for storage. This storage has three spots.</StorageRackMedium_Frame.description>
+
+  <StorageRackLarge.label>Large storage rack</StorageRackLarge.label>
+  <StorageRackLarge.description>Haulers carry stuff here for storage. This storage has four spots.</StorageRackLarge.description>
+  <StorageRackLarge_Blueprint.label>Large storage rack (blueprint)</StorageRackLarge_Blueprint.label>
+  <StorageRackLarge_Frame.label>Large storage rack (building)</StorageRackLarge_Frame.label>
+  <StorageRackLarge_Frame.description>Haulers carry stuff here for storage. This storage has four spots.</StorageRackLarge_Frame.description>
+
+
+  <!-- Doubles -->
+
+  <StorageRackSmallD.label>Small double storage rack</StorageRackSmallD.label>
+  <StorageRackSmallD.description>Haulers carry stuff here for storage. This storage has four spots.</StorageRackSmallD.description>
+  <StorageRackSmallD_Blueprint.label>Small double storage rack (blueprint)</StorageRackSmallD_Blueprint.label>
+  <StorageRackSmallD_Frame.label>Small double storage rack (building)</StorageRackSmallD_Frame.label>
+  <StorageRackSmallD_Frame.description>Haulers carry stuff here for storage. This storage has four spots.</StorageRackSmallD_Frame.description>
+
+  <StorageRackMediumD.label>Medium double storage rack</StorageRackMediumD.label>
+  <StorageRackMediumD.description>Haulers carry stuff here for storage. This storage has six spots.</StorageRackMediumD.description>
+  <StorageRackMediumD_Blueprint.label>Medium double storage rack (blueprint)</StorageRackMediumD_Blueprint.label>
+  <StorageRackMediumD_Frame.label>Medium double storage rack (building)</StorageRackMediumD_Frame.label>
+  <StorageRackMediumD_Frame.description>Haulers carry stuff here for storage. This storage has six spots.</StorageRackMediumD_Frame.description>
+
+  <StorageRackLargeD.label>Large double storage rack</StorageRackLargeD.label>
+  <StorageRackLargeD.description>Haulers carry stuff here for storage. This storage has eight spots.</StorageRackLargeD.description>
+  <StorageRackLargeD_Blueprint.label>Large double storage rack (blueprint)</StorageRackLargeD_Blueprint.label>
+  <StorageRackLargeD_Frame.label>Large double storage rack (building)</StorageRackLargeD_Frame.label>
+  <StorageRackLargeD_Frame.description>Haulers carry stuff here for storage. This storage has eight spots.</StorageRackLargeD_Frame.description>
+
+
+</LanguageData>

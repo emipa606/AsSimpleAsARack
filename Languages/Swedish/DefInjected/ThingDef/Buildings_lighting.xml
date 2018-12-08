@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Lighting -->
+
+  <CeilingLight.label>taklampa</CeilingLight.label>
+  <CeilingLight.description>Enkel och billig taklampa.</CeilingLight.description>
+  <CeilingLight_Blueprint.label>taklampa (ritning)</CeilingLight_Blueprint.label>
+  <CeilingLight_Blueprint_Install.label>taklampa (ritning)</CeilingLight_Blueprint_Install.label>
+  <CeilingLight_Frame.label>taklampa (byggnad)</CeilingLight_Frame.label>
+  <CeilingLight_Frame.description>Enkel och billig taklampa.</CeilingLight_Frame.description>
+
+
+</LanguageData>

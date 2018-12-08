@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Normal Racks -->
+
+  <StorageRackSingle.label>Enkel lagringshylla</StorageRackSingle.label>
+  <StorageRackSingle.description>Lagringshylla, denna har 1 plats</StorageRackSingle.description>
+  <StorageRackSingle_Blueprint.label>Enkel lagringshylla (ritning)</StorageRackSingle_Blueprint.label>
+  <StorageRackSingle_Frame.label>Enkel lagringshylla (byggnad)</StorageRackSingle_Frame.label>
+  <StorageRackSingle_Frame.description>Lagringshylla, denna har 1 plats</StorageRackSingle_Frame.description>
+
+  <StorageRackSmall.label>Small lagringshylla</StorageRackSmall.label>
+  <StorageRackSmall.description>Lagringshylla, denna har 2 platser</StorageRackSmall.description>
+  <StorageRackSmall_Blueprint.label>Small lagringshylla (ritning)</StorageRackSmall_Blueprint.label>
+  <StorageRackSmall_Frame.label>Small lagringshylla (byggnad)</StorageRackSmall_Frame.label>
+  <StorageRackSmall_Frame.description>Lagringshylla, denna har 2 platser</StorageRackSmall_Frame.description>
+
+  <StorageRackMedium.label>Medium lagringshylla</StorageRackMedium.label>
+  <StorageRackMedium.description>Lagringshylla, denna har 3 platser</StorageRackMedium.description>
+  <StorageRackMedium_Blueprint.label>Medium lagringshylla (ritning)</StorageRackMedium_Blueprint.label>
+  <StorageRackMedium_Frame.label>Medium lagringshylla (byggnad)</StorageRackMedium_Frame.label>
+  <StorageRackMedium_Frame.description>Lagringshylla, denna har 3 platser</StorageRackMedium_Frame.description>
+
+  <StorageRackLarge.label>Large lagringshylla</StorageRackLarge.label>
+  <StorageRackLarge.description>Lagringshylla, denna har 4 platser</StorageRackLarge.description>
+  <StorageRackLarge_Blueprint.label>Large lagringshylla (ritning)</StorageRackLarge_Blueprint.label>
+  <StorageRackLarge_Frame.label>Large lagringshylla (byggnad)</StorageRackLarge_Frame.label>
+  <StorageRackLarge_Frame.description>Lagringshylla, denna har 4 platser</StorageRackLarge_Frame.description>
+
+
+  <!-- Doubles -->
+
+  <StorageRackSmallD.label>Small double lagringshylla</StorageRackSmallD.label>
+  <StorageRackSmallD.description>Lagringshylla, denna har 4 platser</StorageRackSmallD.description>
+  <StorageRackSmallD_Blueprint.label>Small double lagringshylla (ritning)</StorageRackSmallD_Blueprint.label>
+  <StorageRackSmallD_Frame.label>Small double lagringshylla (byggnad)</StorageRackSmallD_Frame.label>
+  <StorageRackSmallD_Frame.description>Lagringshylla, denna har 4 platser</StorageRackSmallD_Frame.description>
+
+  <StorageRackMediumD.label>Medium double lagringshylla</StorageRackMediumD.label>
+  <StorageRackMediumD.description>Lagringshylla, denna har 6 platser</StorageRackMediumD.description>
+  <StorageRackMediumD_Blueprint.label>Medium double lagringshylla (ritning)</StorageRackMediumD_Blueprint.label>
+  <StorageRackMediumD_Frame.label>Medium double lagringshylla (byggnad)</StorageRackMediumD_Frame.label>
+  <StorageRackMediumD_Frame.description>Lagringshylla, denna har 6 platser</StorageRackMediumD_Frame.description>
+
+  <StorageRackLargeD.label>Large double lagringshylla</StorageRackLargeD.label>
+  <StorageRackLargeD.description>Lagringshylla, denna har 8 platser</StorageRackLargeD.description>
+  <StorageRackLargeD_Blueprint.label>Large double lagringshylla (ritning)</StorageRackLargeD_Blueprint.label>
+  <StorageRackLargeD_Frame.label>Large double lagringshylla (byggnad)</StorageRackLargeD_Frame.label>
+  <StorageRackLargeD_Frame.description>Lagringshylla, denna har 8 platser</StorageRackLargeD_Frame.description>
+
+
+</LanguageData>
