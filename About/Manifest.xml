@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Manifest>
-  <identifier>AsSimpleAsARack</identifier>
-  <version>1.0.7.0</version>
+  <identifier>AsSimpleAsARack(Continued)</identifier>
+  <version>1.0.8.0</version>
   <dependencies>
     <li>[KV]RimFridge-1.1</li>
   </dependencies>
@@ -13,3 +13,4 @@
   <manifestUri>https://raw.githubusercontent.com/emipa606/AsSimpleAsARack/master/About/Manifest.xml</manifestUri>
   <downloadUri>https://github.com/emipa606/AsSimpleAsARack/releases</downloadUri>
 </Manifest>
+
