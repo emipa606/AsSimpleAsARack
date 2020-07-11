@@ -1,52 +1,40 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <!-- Refrigerated Racks -->
-
   <RefrigeratedStorageRackSingle.label>Enkel kyld lagringshylla</RefrigeratedStorageRackSingle.label>
   <RefrigeratedStorageRackSingle.description>Kyld lagringshylla, denna har 1 plats</RefrigeratedStorageRackSingle.description>
   <RefrigeratedStorageRackSingle_Blueprint.label>Enkel kyld lagringshylla (ritning)</RefrigeratedStorageRackSingle_Blueprint.label>
   <RefrigeratedStorageRackSingle_Frame.label>Enkel kyld lagringshylla (byggnad)</RefrigeratedStorageRackSingle_Frame.label>
   <RefrigeratedStorageRackSingle_Frame.description>Kyld lagringshylla, denna har 1 plats</RefrigeratedStorageRackSingle_Frame.description>
-
   <RefrigeratedStorageRackSmall.label>Dubbel kyld lagringshylla</RefrigeratedStorageRackSmall.label>
   <RefrigeratedStorageRackSmall.description>Kyld lagringshylla, denna har 2 platser</RefrigeratedStorageRackSmall.description>
   <RefrigeratedStorageRackSmall_Blueprint.label>Dubbel kyld lagringshylla (ritning)</RefrigeratedStorageRackSmall_Blueprint.label>
   <RefrigeratedStorageRackSmall_Frame.label>Dubbel kyld lagringshylla (byggnad)</RefrigeratedStorageRackSmall_Frame.label>
   <RefrigeratedStorageRackSmall_Frame.description>Kyld lagringshylla, denna har 2 platser</RefrigeratedStorageRackSmall_Frame.description>
-
   <RefrigeratedStorageRackMedium.label>Trippel kyld lagringshylla</RefrigeratedStorageRackMedium.label>
   <RefrigeratedStorageRackMedium.description>Kyld lagringshylla, denna har 3 platser</RefrigeratedStorageRackMedium.description>
   <RefrigeratedStorageRackMedium_Blueprint.label>Trippel kyld lagringshylla (ritning)</RefrigeratedStorageRackMedium_Blueprint.label>
   <RefrigeratedStorageRackMedium_Frame.label>Trippel kyld lagringshylla (byggnad)</RefrigeratedStorageRackMedium_Frame.label>
   <RefrigeratedStorageRackMedium_Frame.description>Kyld lagringshylla, denna har 3 platser</RefrigeratedStorageRackMedium_Frame.description>
-
   <RefrigeratedStorageRackLarge.label>Kvadrupel kyld lagringshylla</RefrigeratedStorageRackLarge.label>
   <RefrigeratedStorageRackLarge.description>Kyld lagringshylla, denna har 4 platser</RefrigeratedStorageRackLarge.description>
   <RefrigeratedStorageRackLarge_Blueprint.label>Kvadrupel kyld lagringshylla (ritning)</RefrigeratedStorageRackLarge_Blueprint.label>
   <RefrigeratedStorageRackLarge_Frame.label>Kvadrupel kyld lagringshylla (byggnad)</RefrigeratedStorageRackLarge_Frame.label>
   <RefrigeratedStorageRackLarge_Frame.description>Kyld lagringshylla, denna har 4 platser</RefrigeratedStorageRackLarge_Frame.description>
-
-
   <!-- Doubles -->
-
   <RefrigeratedStorageRackSmallD.label>Tvådubbel kyld lagringshylla</RefrigeratedStorageRackSmallD.label>
   <RefrigeratedStorageRackSmallD.description>Kyld lagringshylla, denna har 4 platser</RefrigeratedStorageRackSmallD.description>
   <RefrigeratedStorageRackSmallD_Blueprint.label>Tvådubbel kyld lagringshylla (ritning)</RefrigeratedStorageRackSmallD_Blueprint.label>
   <RefrigeratedStorageRackSmallD_Frame.label>Tvådubbel kyld lagringshylla (byggnad)</RefrigeratedStorageRackSmallD_Frame.label>
   <RefrigeratedStorageRackSmallD_Frame.description>Kyld lagringshylla, denna har 4 platser</RefrigeratedStorageRackSmallD_Frame.description>
-
   <RefrigeratedStorageRackMediumD.label>Tredubbel kyld lagringshylla</RefrigeratedStorageRackMediumD.label>
   <RefrigeratedStorageRackMediumD.description>Kyld lagringshylla, denna har 6 platser</RefrigeratedStorageRackMediumD.description>
   <RefrigeratedStorageRackMediumD_Blueprint.label>Tredubbel kyld lagringshylla (ritning)</RefrigeratedStorageRackMediumD_Blueprint.label>
   <RefrigeratedStorageRackMediumD_Frame.label>Tredubbel kyld lagringshylla (byggnad)</RefrigeratedStorageRackMediumD_Frame.label>
   <RefrigeratedStorageRackMediumD_Frame.description>Kyld lagringshylla, denna har 6 platser</RefrigeratedStorageRackMediumD_Frame.description>
-
   <RefrigeratedStorageRackLargeD.label>Fyrdubbel kyld lagringshylla</RefrigeratedStorageRackLargeD.label>
   <RefrigeratedStorageRackLargeD.description>Kyld lagringshylla, denna har 8 platser</RefrigeratedStorageRackLargeD.description>
   <RefrigeratedStorageRackLargeD_Blueprint.label>Fyrdubbel kyld lagringshylla (ritning)</RefrigeratedStorageRackLargeD_Blueprint.label>
   <RefrigeratedStorageRackLargeD_Frame.label>Fyrdubbel kyld lagringshylla (byggnad)</RefrigeratedStorageRackLargeD_Frame.label>
   <RefrigeratedStorageRackLargeD_Frame.description>Kyld lagringshylla, denna har 8 platser</RefrigeratedStorageRackLargeD_Frame.description>
-
-
 </LanguageData>

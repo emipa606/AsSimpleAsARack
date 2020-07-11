@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
-<!-- Abstract -->
+  <!-- Abstract -->
   <ThingDef Name="StorageRackBase" Abstract="True" ParentName="BuildingBase">
-  	<description>Haulers carry stuff here for storage.</description>
+    <description>Haulers carry stuff here for storage.</description>
     <thingClass>Building_Storage</thingClass>
     <altitudeLayer>Building</altitudeLayer>
     <passability>PassThroughOnly</passability>
@@ -47,11 +47,9 @@
       <li>ITab_Storage</li>
     </inspectorTabs>
     <canOverlapZones>false</canOverlapZones>
-	<holdsRoof>true</holdsRoof>
+    <holdsRoof>true</holdsRoof>
   </ThingDef>
-
-<!-- Normal Racks -->
-
+  <!-- Normal Racks -->
   <ThingDef ParentName="StorageRackBase">
     <defName>StorageRackSingle</defName>
     <label>Single storage rack</label>
@@ -70,7 +68,6 @@
     </statBases>
     <size>(1,1)</size>
   </ThingDef>
-
   <ThingDef ParentName="StorageRackBase">
     <defName>StorageRackSmall</defName>
     <label>Small storage rack</label>
@@ -89,7 +86,6 @@
     </statBases>
     <size>(2,1)</size>
   </ThingDef>
-
   <ThingDef ParentName="StorageRackBase">
     <defName>StorageRackMedium</defName>
     <label>Medium storage rack</label>
@@ -108,7 +104,6 @@
     </statBases>
     <size>(3,1)</size>
   </ThingDef>
-
   <ThingDef ParentName="StorageRackBase">
     <defName>StorageRackLarge</defName>
     <label>Large storage rack</label>
@@ -127,9 +122,7 @@
     </statBases>
     <size>(4,1)</size>
   </ThingDef>
-
-          <!-- Doubles -->
-
+  <!-- Doubles -->
   <ThingDef ParentName="StorageRackBase">
     <defName>StorageRackSmallD</defName>
     <label>Small double storage rack</label>
@@ -148,7 +141,6 @@
     </statBases>
     <size>(2,2)</size>
   </ThingDef>
-
   <ThingDef ParentName="StorageRackBase">
     <defName>StorageRackMediumD</defName>
     <label>Medium double storage rack</label>
@@ -167,7 +159,6 @@
     </statBases>
     <size>(3,2)</size>
   </ThingDef>
-
   <ThingDef ParentName="StorageRackBase">
     <defName>StorageRackLargeD</defName>
     <label>Large double storage rack</label>
@@ -185,6 +176,5 @@
       <WorkToBuild>2800</WorkToBuild>
     </statBases>
     <size>(4,2)</size>
-  </ThingDef>  
-
+  </ThingDef>
 </Defs>

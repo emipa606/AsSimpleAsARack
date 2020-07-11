@@ -1,10 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
-
   <ThingDef Abstract="True" Name="ASAR_StandingLampBase" ParentName="BuildingBase">
     <thingClass>Building</thingClass>
     <category>Building</category>
-	<thingCategories>
+    <thingCategories>
       <li>BuildingsFurniture</li>
     </thingCategories>
     <minifiedDef>MinifiedThing</minifiedDef>
@@ -24,9 +23,9 @@
         <basePowerConsumption>75</basePowerConsumption>
         <shortCircuitInRain>false</shortCircuitInRain>
       </li>
-      <li Class="CompProperties_Flickable"/>
+      <li Class="CompProperties_Flickable" />
     </comps>
-        <statBases>
+    <statBases>
       <MaxHitPoints>50</MaxHitPoints>
       <WorkToBuild>170</WorkToBuild>
       <Flammability>1.0</Flammability>
@@ -35,9 +34,7 @@
       <li>Electricity</li>
     </researchPrerequisites>
   </ThingDef>
-
   <!--============================== Lighting ==============================-->
-
   <ThingDef ParentName="ASAR_StandingLampBase">
     <defName>CeilingLight</defName>
     <label>ceiling light</label>
@@ -76,5 +73,4 @@
       </li>
     </comps>
   </ThingDef>
-
-  </Defs>
+</Defs>

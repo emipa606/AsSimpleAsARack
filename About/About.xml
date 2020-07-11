@@ -1,25 +1,25 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-	<name>As Simple As A Rack (Continued)</name>
-	<packageId>Mlie.AsSimpleAsARack</packageId>
-	<author>Mlie</author>
-	<url>https://github.com/emipa606/AsSimpleAsARack</url>
-	<supportedVersions>
-		<li>1.0</li>
-		<li>1.1</li>
-	</supportedVersions>
-	<modDependencies>
-		<li>
-			<packageId>rimfridge.kv.rw</packageId>
-			<displayName>RimFridge</displayName>
-			<steamWorkshopUrl>steam://url/CommunityFilePage/1180721235</steamWorkshopUrl>
-			<downloadUrl>https://ludeon.com/forums/index.php?topic=32980.0</downloadUrl>
-		</li>
-	</modDependencies>
-	<loadAfter>
-		<li>rimfridge.kv.rw</li>
-	</loadAfter>
-    <description>
+  <name>As Simple As A Rack (Continued)</name>
+  <packageId>Mlie.AsSimpleAsARack</packageId>
+  <author>Mlie</author>
+  <url>https://github.com/emipa606/AsSimpleAsARack</url>
+  <supportedVersions>
+    <li>1.0</li>
+    <li>1.1</li>
+  </supportedVersions>
+  <modDependencies>
+    <li>
+      <packageId>rimfridge.kv.rw</packageId>
+      <displayName>RimFridge</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/1180721235</steamWorkshopUrl>
+      <downloadUrl>https://ludeon.com/forums/index.php?topic=32980.0</downloadUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>rimfridge.kv.rw</li>
+  </loadAfter>
+  <description>
 Adds Storage racks and refridgerated storage racks.
 Things in the racks will not deteriorate when placed outside.
 Normal racks need Smithing-research, refridgerated also needs Air-Conditioning.
@@ -33,4 +33,3 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=966027099
 Graphical assets from Terra Firma by Saularian.
     </description>
 </ModMetaData>
-
