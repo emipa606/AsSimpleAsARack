@@ -37,7 +37,8 @@
           <categories>
             <li>Foods</li>
             <li>AnimalProductRaw</li>
-            <li>PlantMatter</li>            
+            <li>PlantMatter</li>
+			<li>Medicine</li>
           </categories>
           <thingDefs>
             <li>Beer</li>
