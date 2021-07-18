@@ -1,14 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <!-- Lighting -->
-
   <CeilingLight.label>ceiling light</CeilingLight.label>
   <CeilingLight.description>Simple low cost ceiling light.</CeilingLight.description>
   <CeilingLight_Blueprint.label>ceiling light (blueprint)</CeilingLight_Blueprint.label>
   <CeilingLight_Blueprint_Install.label>ceiling light (blueprint)</CeilingLight_Blueprint_Install.label>
   <CeilingLight_Frame.label>ceiling light (building)</CeilingLight_Frame.label>
   <CeilingLight_Frame.description>Simple low cost ceiling light.</CeilingLight_Frame.description>
-
-
 </LanguageData>

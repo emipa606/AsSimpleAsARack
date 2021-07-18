@@ -1,52 +1,40 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <!-- Refrigerated Racks -->
-
   <RefrigeratedStorageRackSingle.label>Single refrigerated storage rack</RefrigeratedStorageRackSingle.label>
   <RefrigeratedStorageRackSingle.description>Haulers carry stuff here for refrigerated storage. This storage has one spot.</RefrigeratedStorageRackSingle.description>
   <RefrigeratedStorageRackSingle_Blueprint.label>Single refrigerated storage rack (blueprint)</RefrigeratedStorageRackSingle_Blueprint.label>
   <RefrigeratedStorageRackSingle_Frame.label>Single refrigerated storage rack (building)</RefrigeratedStorageRackSingle_Frame.label>
   <RefrigeratedStorageRackSingle_Frame.description>Haulers carry stuff here for refrigerated storage. This storage has one spot.</RefrigeratedStorageRackSingle_Frame.description>
-
   <RefrigeratedStorageRackSmall.label>Small refrigerated storage rack</RefrigeratedStorageRackSmall.label>
   <RefrigeratedStorageRackSmall.description>Haulers carry stuff here for refrigerated storage. This storage has two spots.</RefrigeratedStorageRackSmall.description>
   <RefrigeratedStorageRackSmall_Blueprint.label>Small refrigerated storage rack (blueprint)</RefrigeratedStorageRackSmall_Blueprint.label>
   <RefrigeratedStorageRackSmall_Frame.label>Small refrigerated storage rack (building)</RefrigeratedStorageRackSmall_Frame.label>
   <RefrigeratedStorageRackSmall_Frame.description>Haulers carry stuff here for refrigerated storage. This storage has two spots.</RefrigeratedStorageRackSmall_Frame.description>
-
   <RefrigeratedStorageRackMedium.label>Medium refrigerated storage rack</RefrigeratedStorageRackMedium.label>
   <RefrigeratedStorageRackMedium.description>Haulers carry stuff here for refrigerated storage. This storage has three spots.</RefrigeratedStorageRackMedium.description>
   <RefrigeratedStorageRackMedium_Blueprint.label>Medium refrigerated storage rack (blueprint)</RefrigeratedStorageRackMedium_Blueprint.label>
   <RefrigeratedStorageRackMedium_Frame.label>Medium refrigerated storage rack (building)</RefrigeratedStorageRackMedium_Frame.label>
   <RefrigeratedStorageRackMedium_Frame.description>Haulers carry stuff here for refrigerated storage. This storage has three spots.</RefrigeratedStorageRackMedium_Frame.description>
-
   <RefrigeratedStorageRackLarge.label>Large refrigerated storage rack</RefrigeratedStorageRackLarge.label>
   <RefrigeratedStorageRackLarge.description>Haulers carry stuff here for refrigerated storage. This storage has four spots.</RefrigeratedStorageRackLarge.description>
   <RefrigeratedStorageRackLarge_Blueprint.label>Large refrigerated storage rack (blueprint)</RefrigeratedStorageRackLarge_Blueprint.label>
   <RefrigeratedStorageRackLarge_Frame.label>Large refrigerated storage rack (building)</RefrigeratedStorageRackLarge_Frame.label>
   <RefrigeratedStorageRackLarge_Frame.description>Haulers carry stuff here for refrigerated storage. This storage has four spots.</RefrigeratedStorageRackLarge_Frame.description>
-
-
   <!-- Doubles -->
-
   <RefrigeratedStorageRackSmallD.label>Small refrigerated double storage rack</RefrigeratedStorageRackSmallD.label>
   <RefrigeratedStorageRackSmallD.description>Haulers carry stuff here for refrigerated storage. This storage has four spots.</RefrigeratedStorageRackSmallD.description>
   <RefrigeratedStorageRackSmallD_Blueprint.label>Small refrigerated double storage rack (blueprint)</RefrigeratedStorageRackSmallD_Blueprint.label>
   <RefrigeratedStorageRackSmallD_Frame.label>Small refrigerated double storage rack (building)</RefrigeratedStorageRackSmallD_Frame.label>
   <RefrigeratedStorageRackSmallD_Frame.description>Haulers carry stuff here for refrigerated storage. This storage has four spots.</RefrigeratedStorageRackSmallD_Frame.description>
-
   <RefrigeratedStorageRackMediumD.label>Medium refrigerated double storage rack</RefrigeratedStorageRackMediumD.label>
   <RefrigeratedStorageRackMediumD.description>Haulers carry stuff here for refrigerated storage. This storage has six spots.</RefrigeratedStorageRackMediumD.description>
   <RefrigeratedStorageRackMediumD_Blueprint.label>Medium refrigerated double storage rack (blueprint)</RefrigeratedStorageRackMediumD_Blueprint.label>
   <RefrigeratedStorageRackMediumD_Frame.label>Medium refrigerated double storage rack (building)</RefrigeratedStorageRackMediumD_Frame.label>
   <RefrigeratedStorageRackMediumD_Frame.description>Haulers carry stuff here for refrigerated storage. This storage has six spots.</RefrigeratedStorageRackMediumD_Frame.description>
-
   <RefrigeratedStorageRackLargeD.label>Large refrigerated double storage rack</RefrigeratedStorageRackLargeD.label>
   <RefrigeratedStorageRackLargeD.description>Haulers carry stuff here for refrigerated storage. This storage has eight spots.</RefrigeratedStorageRackLargeD.description>
   <RefrigeratedStorageRackLargeD_Blueprint.label>Large refrigerated double storage rack (blueprint)</RefrigeratedStorageRackLargeD_Blueprint.label>
   <RefrigeratedStorageRackLargeD_Frame.label>Large refrigerated double storage rack (building)</RefrigeratedStorageRackLargeD_Frame.label>
   <RefrigeratedStorageRackLargeD_Frame.description>Haulers carry stuff here for refrigerated storage. This storage has eight spots.</RefrigeratedStorageRackLargeD_Frame.description>
-
-
 </LanguageData>

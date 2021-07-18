@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>As Simple As A Rack (Continued)</name>
   <packageId>Mlie.AsSimpleAsARack</packageId>
@@ -8,6 +8,7 @@
     <li>1.0</li>
     <li>1.1</li>
     <li>1.2</li>
+    <li>1.3</li>
   </supportedVersions>
   <modDependencies>
     <li>
@@ -20,17 +21,64 @@
   <loadAfter>
     <li>rimfridge.kv.rw</li>
   </loadAfter>
-  <description>
-Adds Storage racks and refridgerated storage racks.
-Things in the racks will not deteriorate when placed outside.
-Normal racks need Smithing-research, refridgerated also needs Air-Conditioning.
-The racks can be used to hold up a roof.
-
-Note: You need to put this mod after RimFridge in mod order
-
----
-This is an update of the original that has not been updated since B18
+  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
+Update of kaptain_kaverns mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=966027099
+
+- Things in the racks will not deteriorate when placed outside.
+- Normal racks need Smithing-research, refrigerated also needs Air-Conditioning.
+- The racks can be used to hold up a roof.
+- Also adds a simple Ceiling Light
+
+[img]https://i.imgur.com/7Gzt3Rg.png[/img]
+
+[table]
+	[tr]
+		[td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
+		[td][url=https://github.com/emipa606/AsSimpleAsARack][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
+	[/tr]
+[/table]
+	
+[img]https://i.imgur.com/NOW7jU1.png[/img]
+
+- Add simple racked storage solutions, all structures need a bit of metal as frame. They are declined in various size and can be constructed from stone, wood or rock.
+- Also add refrigerated storage solutions, accessible after &quot;Air Conditioning&quot; research. They are declined in the same sizes and can be constructed from stone, wood or rock + a fixed amount of steel and components.
+==============================================================
+============================= WARNING ========================
+==============================================================
+
+You need to put this mod !AFTER! Rimfrigde in mod order
+
+==============================================================
+
+Add simple racked storage solutions, all structures need a bit of metal as frame. They are declined in various size and can be constructed from stone, wood or rock.
+
+They can store any items in the game but are not preventing decaying (meaning that your stored items still need to be under a roof to stop decaying; putting a storage rack outside will not suffice)
+Default storage settings are set to : &quot;Normal priority&quot;, &quot;all except corpses and chunks&quot; and &quot;No rotten allowed&quot;.
+Those ones are &quot;minifiable&quot; : you can move them around without deconstructing them.
+
+==============================================================
+
+Also add refrigerated storage solutions, accessible after &quot;Air Conditioning&quot; research. They are declined in the same sizes and can be constructed from stone, wood or rock + a fixed amount of steel and components.
+
+They can store any items in the game and are refrigerated so they preserve foods, meals, medicine and corpses from rotting. They need to be powered for that. Note : even unpowered (or switched off) items stored in it will still not decay because it&apos;s a door-closed storage.
+Those ones are not movable but they&apos;re so sturdy that they can be use as roof supports (as a roof or a pillar).
+
+==============================================================
 Graphical assets from Terra Firma by Saularian.
-    </description>
+
+==============================================================
+
+
+[img]https://i.imgur.com/Rs6T6cr.png[/img]
+[list]
+[*] See if the the error persists if you just have this mod and its requirements active.
+[*] If not, try adding your other mods until it happens again.
+[*] Post your error-log using [url=https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib[/url] and command Ctrl+F12
+[*] For best support, please use the Discord-channel for error-reporting.
+[*] Do not report errors by making a discussion-thread, I get no notification of that.
+[*] If you have the solution for a problem, please post it to the GitHub repository.
+[/list]
+</description>
 </ModMetaData>
+

@@ -1,33 +1,21 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <!-- Normal Racks -->
-
   <StorageRackSingle.label>Single storage rack</StorageRackSingle.label>
   <StorageRackSingle.description>Haulers carry stuff here for storage. This storage has one spot.</StorageRackSingle.description>
-
   <StorageRackSmall.label>Small storage rack</StorageRackSmall.label>
   <StorageRackSmall.description>Haulers carry stuff here for storage. This storage has two spots.</StorageRackSmall.description>
-
   <StorageRackMedium.label>Medium storage rack</StorageRackMedium.label>
   <StorageRackMedium.description>Haulers carry stuff here for storage. This storage has three spots.</StorageRackMedium.description>
-
   <StorageRackLarge.label>Large storage rack</StorageRackLarge.label>
   <StorageRackLarge.description>Haulers carry stuff here for storage. This storage has four spots.</StorageRackLarge.description>
-
-
   <!-- Doubles -->
-
   <StorageRackSmallD.label>Small double storage rack</StorageRackSmallD.label>
   <StorageRackSmallD.description>Haulers carry stuff here for storage. This storage has four spots.</StorageRackSmallD.description>
-
   <StorageRackMediumD.label>Medium double storage rack</StorageRackMediumD.label>
   <StorageRackMediumD.description>Haulers carry stuff here for storage. This storage has six spots.</StorageRackMediumD.description>
-
   <StorageRackLargeD.label>Large double storage rack</StorageRackLargeD.label>
   <StorageRackLargeD.description>Haulers carry stuff here for storage. This storage has eight spots.</StorageRackLargeD.description>
-
-
   <!--<StorageRackSingle_Blueprint.label>Single storage rack (blueprint)</StorageRackSingle_Blueprint.label>-->
   <!--<StorageRackSingle_Frame.label>Single storage rack (building)</StorageRackSingle_Frame.label>-->
   <!--<StorageRackSingle_Frame.description>Haulers carry stuff here for storage. This storage has one spot.</StorageRackSingle_Frame.description>-->
@@ -49,5 +37,4 @@
   <!--<StorageRackLargeD_Blueprint.label>Large double storage rack (blueprint)</StorageRackLargeD_Blueprint.label>-->
   <!--<StorageRackLargeD_Frame.label>Large double storage rack (building)</StorageRackLargeD_Frame.label>-->
   <!--<StorageRackLargeD_Frame.description>Haulers carry stuff here for storage. This storage has eight spots.</StorageRackLargeD_Frame.description>-->
-
 </LanguageData>
