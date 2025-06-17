@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: ceiling light (blueprint) -->
+  <Blueprint_CeilingLight.label>ceiling light (blueprint)</Blueprint_CeilingLight.label>
+  <!-- EN: ceiling light (blueprint) -->
+  <Blueprint_Install_CeilingLight.label>ceiling light (blueprint)</Blueprint_Install_CeilingLight.label>
+  <!-- EN: Large refrigerated storage rack (blueprint) -->
+  <Blueprint_RefrigeratedStorageRackLarge.label>Large refrigerated storage rack (blueprint)</Blueprint_RefrigeratedStorageRackLarge.label>
+  <!-- EN: Large refrigerated double storage rack (blueprint) -->
+  <Blueprint_RefrigeratedStorageRackLargeD.label>Large refrigerated double storage rack (blueprint)</Blueprint_RefrigeratedStorageRackLargeD.label>
+  <!-- EN: Medium refrigerated storage rack (blueprint) -->
+  <Blueprint_RefrigeratedStorageRackMedium.label>Medium refrigerated storage rack (blueprint)</Blueprint_RefrigeratedStorageRackMedium.label>
+  <!-- EN: Medium refrigerated double storage rack (blueprint) -->
+  <Blueprint_RefrigeratedStorageRackMediumD.label>Medium refrigerated double storage rack (blueprint)</Blueprint_RefrigeratedStorageRackMediumD.label>
+  <!-- EN: Single refrigerated storage rack (blueprint) -->
+  <Blueprint_RefrigeratedStorageRackSingle.label>Single refrigerated storage rack (blueprint)</Blueprint_RefrigeratedStorageRackSingle.label>
+  <!-- EN: Small refrigerated storage rack (blueprint) -->
+  <Blueprint_RefrigeratedStorageRackSmall.label>Small refrigerated storage rack (blueprint)</Blueprint_RefrigeratedStorageRackSmall.label>
+  <!-- EN: Small refrigerated double storage rack (blueprint) -->
+  <Blueprint_RefrigeratedStorageRackSmallD.label>Small refrigerated double storage rack (blueprint)</Blueprint_RefrigeratedStorageRackSmallD.label>
+  <!-- EN: ceiling light (building) -->
+  <Frame_CeilingLight.label>ceiling light (building)</Frame_CeilingLight.label>
+  <!-- EN: Simple low cost ceiling light. -->
+  <Frame_CeilingLight.description>Simple low cost ceiling light.</Frame_CeilingLight.description>
+  <!-- EN: Large refrigerated storage rack (building) -->
+  <Frame_RefrigeratedStorageRackLarge.label>Large refrigerated storage rack (building)</Frame_RefrigeratedStorageRackLarge.label>
+  <!-- EN: Haulers carry stuff here for refrigerated storage. This storage has four spots. -->
+  <Frame_RefrigeratedStorageRackLarge.description>Haulers carry stuff here for refrigerated storage. This storage has four spots.</Frame_RefrigeratedStorageRackLarge.description>
+  <!-- EN: Large refrigerated double storage rack (building) -->
+  <Frame_RefrigeratedStorageRackLargeD.label>Large refrigerated double storage rack (building)</Frame_RefrigeratedStorageRackLargeD.label>
+  <!-- EN: Haulers carry stuff here for refrigerated storage. This storage has eight spots. -->
+  <Frame_RefrigeratedStorageRackLargeD.description>Haulers carry stuff here for refrigerated storage. This storage has eight spots.</Frame_RefrigeratedStorageRackLargeD.description>
+  <!-- EN: Medium refrigerated storage rack (building) -->
+  <Frame_RefrigeratedStorageRackMedium.label>Medium refrigerated storage rack (building)</Frame_RefrigeratedStorageRackMedium.label>
+  <!-- EN: Haulers carry stuff here for refrigerated storage. This storage has three spots. -->
+  <Frame_RefrigeratedStorageRackMedium.description>Haulers carry stuff here for refrigerated storage. This storage has three spots.</Frame_RefrigeratedStorageRackMedium.description>
+  <!-- EN: Medium refrigerated double storage rack (building) -->
+  <Frame_RefrigeratedStorageRackMediumD.label>Medium refrigerated double storage rack (building)</Frame_RefrigeratedStorageRackMediumD.label>
+  <!-- EN: Haulers carry stuff here for refrigerated storage. This storage has six spots. -->
+  <Frame_RefrigeratedStorageRackMediumD.description>Haulers carry stuff here for refrigerated storage. This storage has six spots.</Frame_RefrigeratedStorageRackMediumD.description>
+  <!-- EN: Single refrigerated storage rack (building) -->
+  <Frame_RefrigeratedStorageRackSingle.label>Single refrigerated storage rack (building)</Frame_RefrigeratedStorageRackSingle.label>
+  <!-- EN: Haulers carry stuff here for refrigerated storage. This storage has one spot. -->
+  <Frame_RefrigeratedStorageRackSingle.description>Haulers carry stuff here for refrigerated storage. This storage has one spot.</Frame_RefrigeratedStorageRackSingle.description>
+  <!-- EN: Small refrigerated storage rack (building) -->
+  <Frame_RefrigeratedStorageRackSmall.label>Small refrigerated storage rack (building)</Frame_RefrigeratedStorageRackSmall.label>
+  <!-- EN: Haulers carry stuff here for refrigerated storage. This storage has two spots. -->
+  <Frame_RefrigeratedStorageRackSmall.description>Haulers carry stuff here for refrigerated storage. This storage has two spots.</Frame_RefrigeratedStorageRackSmall.description>
+  <!-- EN: Small refrigerated double storage rack (building) -->
+  <Frame_RefrigeratedStorageRackSmallD.label>Small refrigerated double storage rack (building)</Frame_RefrigeratedStorageRackSmallD.label>
+  <!-- EN: Haulers carry stuff here for refrigerated storage. This storage has four spots. -->
+  <Frame_RefrigeratedStorageRackSmallD.description>Haulers carry stuff here for refrigerated storage. This storage has four spots.</Frame_RefrigeratedStorageRackSmallD.description>
+</LanguageData>

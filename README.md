@@ -1,4 +1,4 @@
-# AsSimpleAsARack
+# [As Simple As A Rack (Continued)](https://steamcommunity.com/sharedfiles/filedetails/?id=1542008585)
 
 ![Image](https://i.imgur.com/buuPQel.png)
 
@@ -11,10 +11,8 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=966027099
 - Also adds a simple Ceiling Light
 
 ![Image](https://i.imgur.com/pufA0kM.png)
-
 	
 ![Image](https://i.imgur.com/Z4GOv8H.png)
-
 
 - Add simple racked storage solutions, all structures need a bit of metal as frame. They are declined in various size and can be constructed from stone, wood or rock.
 - Also add refrigerated storage solutions, accessible after "Air Conditioning" research. They are declined in the same sizes and can be constructed from stone, wood or rock + a fixed amount of steel and components.
@@ -51,13 +49,12 @@ Graphical assets from Terra Firma by Saularian.
 
 -  See if the the error persists if you just have this mod and its requirements active.
 -  If not, try adding your other mods until it happens again.
--  Post your error-log using https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib or the standalone https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404]Uploader and command Ctrl+F12
+-  Post your error-log using [HugsLib](https://steamcommunity.com/workshop/filedetails/?id=818773962) or the standalone [Uploader](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404) and command Ctrl+F12
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
--  Use https://github.com/RimSort/RimSort/releases/latest]RimSort to sort your mods
+-  Use [RimSort](https://github.com/RimSort/RimSort/releases/latest) to sort your mods
 
+ 
 
-
-https://steamcommunity.com/sharedfiles/filedetails/changelog/1542008585]![Image](https://img.shields.io/github/v/release/emipa606/AsSimpleAsARack?label=latest%20version&style=plastic&color=9f1111&labelColor=black)
-
+[![Image](https://img.shields.io/github/v/release/emipa606/AsSimpleAsARack?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/1542008585) | tags:  refrigerated storage

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Large refrigerated storage rack -->
+  <RefrigeratedStorageRackLarge.label>Large refrigerated storage rack</RefrigeratedStorageRackLarge.label>
+  <!-- EN: Haulers carry stuff here for storage. This storage is refrigerated -->
+  <RefrigeratedStorageRackLarge.description>Haulers carry stuff here for storage. This storage is refrigerated</RefrigeratedStorageRackLarge.description>
+  <!-- EN: Large refrigerated double storage rack -->
+  <RefrigeratedStorageRackLargeD.label>Large refrigerated double storage rack</RefrigeratedStorageRackLargeD.label>
+  <!-- EN: Haulers carry stuff here for storage. This storage is refrigerated -->
+  <RefrigeratedStorageRackLargeD.description>Haulers carry stuff here for storage. This storage is refrigerated</RefrigeratedStorageRackLargeD.description>
+  <!-- EN: Medium refrigerated storage rack -->
+  <RefrigeratedStorageRackMedium.label>Medium refrigerated storage rack</RefrigeratedStorageRackMedium.label>
+  <!-- EN: Haulers carry stuff here for storage. This storage is refrigerated -->
+  <RefrigeratedStorageRackMedium.description>Haulers carry stuff here for storage. This storage is refrigerated</RefrigeratedStorageRackMedium.description>
+  <!-- EN: Medium refrigerated double storage rack -->
+  <RefrigeratedStorageRackMediumD.label>Medium refrigerated double storage rack</RefrigeratedStorageRackMediumD.label>
+  <!-- EN: Haulers carry stuff here for storage. This storage is refrigerated -->
+  <RefrigeratedStorageRackMediumD.description>Haulers carry stuff here for storage. This storage is refrigerated</RefrigeratedStorageRackMediumD.description>
+  <!-- EN: Single refrigerated storage rack -->
+  <RefrigeratedStorageRackSingle.label>Single refrigerated storage rack</RefrigeratedStorageRackSingle.label>
+  <!-- EN: Haulers carry stuff here for storage. This storage is refrigerated -->
+  <RefrigeratedStorageRackSingle.description>Haulers carry stuff here for storage. This storage is refrigerated</RefrigeratedStorageRackSingle.description>
+  <!-- EN: Small refrigerated storage rack -->
+  <RefrigeratedStorageRackSmall.label>Small refrigerated storage rack</RefrigeratedStorageRackSmall.label>
+  <!-- EN: Haulers carry stuff here for storage. This storage is refrigerated -->
+  <RefrigeratedStorageRackSmall.description>Haulers carry stuff here for storage. This storage is refrigerated</RefrigeratedStorageRackSmall.description>
+  <!-- EN: Small refrigerated double storage rack -->
+  <RefrigeratedStorageRackSmallD.label>Small refrigerated double storage rack</RefrigeratedStorageRackSmallD.label>
+  <!-- EN: Haulers carry stuff here for storage. This storage is refrigerated -->
+  <RefrigeratedStorageRackSmallD.description>Haulers carry stuff here for storage. This storage is refrigerated</RefrigeratedStorageRackSmallD.description>
+</LanguageData>

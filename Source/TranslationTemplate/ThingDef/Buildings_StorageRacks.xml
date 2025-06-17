@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Large storage rack -->
+  <StorageRackLarge.label>Large storage rack</StorageRackLarge.label>
+  <!-- EN: Haulers carry stuff here for storage. -->
+  <StorageRackLarge.description>Haulers carry stuff here for storage.</StorageRackLarge.description>
+  <!-- EN: Large double storage rack -->
+  <StorageRackLargeD.label>Large double storage rack</StorageRackLargeD.label>
+  <!-- EN: Haulers carry stuff here for storage. -->
+  <StorageRackLargeD.description>Haulers carry stuff here for storage.</StorageRackLargeD.description>
+  <!-- EN: Medium storage rack -->
+  <StorageRackMedium.label>Medium storage rack</StorageRackMedium.label>
+  <!-- EN: Haulers carry stuff here for storage. -->
+  <StorageRackMedium.description>Haulers carry stuff here for storage.</StorageRackMedium.description>
+  <!-- EN: Medium double storage rack -->
+  <StorageRackMediumD.label>Medium double storage rack</StorageRackMediumD.label>
+  <!-- EN: Haulers carry stuff here for storage. -->
+  <StorageRackMediumD.description>Haulers carry stuff here for storage.</StorageRackMediumD.description>
+  <!-- EN: Single storage rack -->
+  <StorageRackSingle.label>Single storage rack</StorageRackSingle.label>
+  <!-- EN: Haulers carry stuff here for storage. -->
+  <StorageRackSingle.description>Haulers carry stuff here for storage.</StorageRackSingle.description>
+  <!-- EN: Small storage rack -->
+  <StorageRackSmall.label>Small storage rack</StorageRackSmall.label>
+  <!-- EN: Haulers carry stuff here for storage. -->
+  <StorageRackSmall.description>Haulers carry stuff here for storage.</StorageRackSmall.description>
+  <!-- EN: Small double storage rack -->
+  <StorageRackSmallD.label>Small double storage rack</StorageRackSmallD.label>
+  <!-- EN: Haulers carry stuff here for storage. -->
+  <StorageRackSmallD.description>Haulers carry stuff here for storage.</StorageRackSmallD.description>
+</LanguageData>

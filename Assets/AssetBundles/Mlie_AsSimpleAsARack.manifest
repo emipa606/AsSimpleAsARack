@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 4029614405
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8fb5cbf47df3f93a3415e3e7552c32a6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 8fb5cbf47df3f93a3415e3e7552c32a6
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Data/Mlie.AsSimpleAsARack/Textures/Things/Buildings/Furniture/RefrigeratedStorageMediumDLid.png
+- Assets/Data/Mlie.AsSimpleAsARack/Textures/Things/Buildings/Furniture/LampCeiling.png
+- Assets/Data/Mlie.AsSimpleAsARack/Textures/Things/Buildings/Furniture/RefrigeratedStorageLargeDLid.png
+- Assets/Data/Mlie.AsSimpleAsARack/Textures/UI/ArchitectIcons/ASAR_StorageCat.png
+- Assets/Data/Mlie.AsSimpleAsARack/Textures/Things/Buildings/Furniture/RefrigeratedStorageLargeD.png
+- Assets/Data/Mlie.AsSimpleAsARack/Textures/Things/Buildings/Furniture/RefrigeratedStorageSmall.png
+- Assets/Data/Mlie.AsSimpleAsARack/Textures/Things/Buildings/Furniture/RefrigeratedStorageSingleLid.png
+- Assets/Data/Mlie.AsSimpleAsARack/Textures/Things/Buildings/Furniture/RefrigeratedStorageSmallD.png
+- Assets/Data/Mlie.AsSimpleAsARack/Textures/Things/Buildings/Furniture/RefrigeratedStorageMediumLid.png
+- Assets/Data/Mlie.AsSimpleAsARack/Textures/Things/Buildings/Furniture/StorageMedium.png
+- Assets/Data/Mlie.AsSimpleAsARack/Textures/Things/Buildings/Furniture/RefrigeratedStorageSmallDLid.png
+- Assets/Data/Mlie.AsSimpleAsARack/Textures/Things/Buildings/Furniture/RefrigeratedStorageSmallLid.png
+- Assets/Data/Mlie.AsSimpleAsARack/Textures/Things/Buildings/Furniture/StorageMediumD.png
+- Assets/Data/Mlie.AsSimpleAsARack/Textures/Things/Buildings/Furniture/RefrigeratedStorageLarge.png
+- Assets/Data/Mlie.AsSimpleAsARack/Textures/Things/Buildings/Furniture/RefrigeratedStorageSingle.png
+- Assets/Data/Mlie.AsSimpleAsARack/Textures/Things/Buildings/Furniture/RefrigeratedStorageMedium.png
+- Assets/Data/Mlie.AsSimpleAsARack/Textures/Things/Buildings/Furniture/StorageSmallD.png
+- Assets/Data/Mlie.AsSimpleAsARack/Textures/Things/Buildings/Furniture/StorageSmall.png
+- Assets/Data/Mlie.AsSimpleAsARack/Textures/Things/Buildings/Furniture/RefrigeratedStorageMediumD.png
+- Assets/Data/Mlie.AsSimpleAsARack/Textures/Things/Buildings/Furniture/StorageLarge.png
+- Assets/Data/Mlie.AsSimpleAsARack/Textures/Things/Buildings/Furniture/StorageLargeD.png
+- Assets/Data/Mlie.AsSimpleAsARack/Textures/Things/Buildings/Furniture/RefrigeratedStorageLargeLid.png
+- Assets/Data/Mlie.AsSimpleAsARack/Textures/Things/Buildings/Furniture/StorageSingle.png
+Dependencies: []
